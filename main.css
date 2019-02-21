@@ -36,7 +36,7 @@ img.profile-pic {
 	height: 30%;
 	width: 30%;
 	object-fit: cover;
-	border-radius: 20px;
+	border-radius: 100px;
 }
 
 .container {
@@ -90,7 +90,7 @@ img.profile-pic {
 
 .col.is-5 {
 	flex: none;
-	width: 50%;
+	width: 45%;
 }
 
 .col.is-6 {
@@ -106,6 +106,7 @@ img.profile-pic {
 .col.is-8 {
 	flex: none;
 	width: 80%;
+	
 }
 
 .col.is-9 {
@@ -131,7 +132,7 @@ img.profile-pic {
 }
 
 .secondary-info {
-	height: 8%;
+	height: 6%;
 }
 
 .bg-color-grey {
@@ -164,7 +165,7 @@ img.profile-pic {
 }
 
 .bottom {
-	height: 23%;
+	height: 19%;
 }
 
 .button {
