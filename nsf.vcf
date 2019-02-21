@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Ng;Seng Five;;;
+FN: Seng Five Ng 
+ORG:Holidaylah;
+TITLE:Digital Marketing & Sales\nGT5 PLT
+EMAIL;type=INTERNET;type=WORK;type=pref:sengfive.ng@holidaylah.com
+TEL;type=WORK;type=pref:+65 9364 7240
+TEL;type=WORK:+6 010 211 3122
+item1.ADR;type=WORK;type=pref:;;A-19-2 Kanvas Soho\nJalan Teknokrat 6\, 01-01;;;63000;Cyberjaya, Selangor \nMalaysia
+item1.X-ABADR:sg
+item2.URL;type=pref:Holidaylah.com
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
